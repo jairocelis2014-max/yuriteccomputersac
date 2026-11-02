@@ -1,0 +1,7 @@
+{
+  "name": "YURITEC COMPUTER SAC - Cómputo, Soporte a Domicilio, Hosting y Desarrollo Web",
+  "description": "Tienda virtual y servicios de cómputo en Yurimaguas, Loreto. PCs gamer, laptops, soporte técnico a domicilio o en taller, planes de hosting NVMe (S/100-S/350), dominios (S/60) y desarrollo de sistemas webs y apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
