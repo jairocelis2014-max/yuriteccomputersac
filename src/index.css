@@ -1,1 +1,7 @@
 @import "tailwindcss";
+iframe#netlify-widget, div#netlify-deploy-badge, .netlify-badge, a[href*="netlify.com"] {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+}
